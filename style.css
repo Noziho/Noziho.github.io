@@ -37,7 +37,7 @@ header>nav.menu>ul>li>a:hover {
     color: chocolate;
 }
 
-header > i {
+i {
     visibility: hidden;
 }
 
